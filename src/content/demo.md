@@ -2,7 +2,7 @@
 layout: post
 title: A demo post
 image: img/testimg-cover.jpg
-author: Ghost
+author: Dazz
 date: 2019-03-09T07:03:47.149Z
 tags: 
   - Tests
